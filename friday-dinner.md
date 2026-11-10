@@ -1,16 +1,18 @@
 # Dinner Plans 🍽️
 
+Weekly dinner plans for our four-person flat 🏠
+
 ## Friday Dinner — Recommended Dishes (4 People)
 
-Recommendation for a 4-person dinner (3 meat dishes + 2 vegetable dishes), keeping the exact dish names as suggested:
+A recommendation for a 4-person dinner (3 meat dishes + 2 vegetable dishes), keeping the exact dish names as suggested by the recommender:
 
-| # | Dish | Type | Estimated Difficulty |
-|---|------|------|----------------------|
-| 1 | 蚂蚁上树的做法 | Meat | ★★★ |
-| 2 | 血浆鸭的做法 | Meat | ★★★★★ |
-| 3 | 香干芹菜炒肉的做法 | Meat | ★★★ |
-| 4 | 生汆丸子汤的做法 | Soup | ★★★★ |
-| 5 | 包菜炒鸡蛋粉丝的做法 | Vegetable | ★★★ |
+| # | Dish | Type | Difficulty |
+|---|------|------|-----------|
+| 1 | 麻辣香锅的做法 | 荤菜 | ★★★ |
+| 2 | 黄瓜炒肉的做法 | 荤菜 | ★★★ |
+| 3 | 水煮牛肉的做法 | 荤菜 | ★★★ |
+| 4 | 清蒸南瓜的做法 | 素菜 | ★ |
+| 5 | 紫菜蛋花汤的做法 | 汤 | ★★ |
 
 ## Saturday Breakfast — 手抓饼
 
@@ -18,7 +20,7 @@ Recommendation for a 4-person dinner (3 meat dishes + 2 vegetable dishes), keepi
 
 ### Ingredients（食材）
 
-Ingredients as listed in the recipe（量未指定 → with quantities where given）:
+Ingredients as listed in the recipe (量未指定 → with quantities where given):
 
 - 普通面粉 — 面粉 200 克
 - 开水 — 开水 100 毫升
