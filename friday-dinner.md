@@ -6,11 +6,11 @@ Recommendation for a 4-person dinner (3 meat dishes + 2 vegetable dishes), keepi
 
 | # | Dish | Type | Estimated Difficulty |
 |---|------|------|----------------------|
-| 1 | 啤酒鸭的做法 | Meat | ★★★★ |
-| 2 | 新疆大盘鸡的做法 | Meat | ★★★★ |
-| 3 | 麻辣香锅的做法 | Meat | ★★★ |
-| 4 | 酸辣土豆丝的做法 | Vegetable | ★★ |
-| 5 | 红烧茄子的做法 | Vegetable | ★★★★ |
+| 1 | 蚂蚁上树的做法 | Meat | ★★★ |
+| 2 | 血浆鸭的做法 | Meat | ★★★★★ |
+| 3 | 香干芹菜炒肉的做法 | Meat | ★★★ |
+| 4 | 生汆丸子汤的做法 | Soup | ★★★★ |
+| 5 | 包菜炒鸡蛋粉丝的做法 | Vegetable | ★★★ |
 
 ## Saturday Breakfast — 手抓饼
 
