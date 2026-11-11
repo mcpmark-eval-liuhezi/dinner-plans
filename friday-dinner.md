@@ -2,31 +2,31 @@
 
 Weekly dinner plans for our four-person flat 🏠
 
-> Generated from the HowToCook recommender for **4 people** (3 meat dishes + 2 vegetable dishes). Dish names below are kept exactly as suggested by the recommender.
+> Generated for **4 people** (3 meat dishes + 2 vegetable dishes) using the HowToCook recommender. Dish names below are kept **exactly** as suggested by the recommender.
 
 ## Friday Dinner — Recommended Dishes (4 People)
 
 A recommendation for a 4-person dinner (3 meat dishes + 2 vegetable dishes), keeping the exact dish names as suggested by the recommender:
 
 | # | Dish (exact name) | Type | Difficulty |
-|---|-------------------|------|-----------|
-| 1 | 尖椒炒牛肉的做法 | 荤菜 | ★★★ |
+|---|-------------------|------|------------|
+| 1 | 咕噜肉的做法 | 荤菜 | ★★★★ |
 | 2 | 新疆大盘鸡的做法 | 荤菜 | ★★★★ |
-| 3 | 小酥肉的做法 | 荤菜 | ★★★ |
-| 4 | 炒茄子的做法 | 素菜 | ★★★ |
-| 5 | 米粥的做法 | 汤/主食 | ★★ |
+| 3 | 血浆鸭的做法 | 荤菜 | ★★★★★ |
+| 4 | 鸡蛋羹的做法 | 素菜 | ★★ |
+| 5 | 小米粥的做法 | 汤 | ★★ |
 
 ### Quick Ingredients Reference
 
-- **尖椒炒牛肉的做法** — 牛肉；葱、姜、蒜；尖椒；酱油；盐；糖
-- **新疆大盘鸡的做法** — 鸡肉（鸡腿肉最好，约1kg）；土豆 2 个（约750g）；大葱 100g；菜椒/甜椒各1个；白糖 20g；干线椒 5 个；大蒜 4 瓣；花椒、香叶、香果；油 50g；盐、生抽、蚝油、料酒（可用啤酒）
-- **小酥肉的做法** — 去皮猪肉；植物油；老姜；小葱；料酒；盐；十三香；胡椒粉；味精/鸡精；花椒碎/花椒粒；生抽；鸡蛋；面粉；红薯淀粉
-- **炒茄子的做法** — 茄子（份数 × 1.8 个）；八角（份数 × 1 个，推荐）；虾皮（可选）；香葱（份数 × 2 颗）；酱油（份数 × 40ml）；菜籽油或花生油
-- **米粥的做法** — 米；水（米体积的 9-12 倍）；植物油（可选）。一人约 60-110ml 米，一碗 500ml，最早可食用约 10 分钟/500ml。
+- **咕噜肉的做法** — 梅头猪肉 100g；青椒 25g；罐头菠萝片 75g；盐 1/4 茶匙；茄汁 4 汤匙；白醋 2 茶匙；蒜蓉 1 汤匙；生抽 1/2 茶匙；生粉 2 1/2 茶匙；白砂糖 2 汤匙；水 200 毫升（1 汤匙 = 15ml，1 茶匙 = 5ml）
+- **新疆大盘鸡的做法** — 鸡肉（鸡腿肉最好）约 1kg（两个火枪腿）；土豆 2 个约 750g；大葱 100g；菜椒/甜椒 各 1 个各 50g；白糖 20g；干线椒 5 个；大蒜 4 瓣；油 50g；花椒、香叶、香果、盐、生抽、蚝油、料酒（可拿啤酒）
+- **血浆鸭的做法** — 鲜仔鸭肉 2000g；鲜鸭血 250ml（宰杀时加醋接血并顺时针搅拌防凝固）；姜 6 片；蒜仔 6 瓣；香葱 2 根；高度白酒 50ml + 水 150ml（或啤酒/米酒 200ml）；生抽 10ml；料酒 30ml；盐 8g；鸡精 5g（湖南武冈传统名菜，初学者约 2 小时完成）
+- **鸡蛋羹的做法** — 鸡蛋 2 个；食用盐 3g；香油（或芝麻油）2-4ml；生抽/味极鲜 8ml；白醋（或料酒）2ml（可选）（制作时长约 15 分钟）
+- **小米粥的做法** — 小米 100 克；水 2000 克（山泉水最佳；小米富含维生素 B1，产热量比大米高）
 
-## Saturday Breakfast — 手抓饼
+## Saturday Breakfast — 手抓饼（Standing Recipe）
 
-**预估烹饪难度（Difficulty）：★★（2/5）** 🥞
+**预估烹饪难度（Difficulty）：★★（2/5）**
 
 Recipe source: `dishes/breakfast/手抓饼.md` · Category: 早餐 · Serves: 1
 
